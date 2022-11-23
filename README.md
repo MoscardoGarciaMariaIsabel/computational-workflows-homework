@@ -1,5 +1,5 @@
 # Computational Research Workflows Homework
-This is a small summary of the steps to be followed to complete the homework activities of the Computational Research Workflows course, which was taught at the University of Luxembourg on the 10<sup>th</sup> of November 2022. 
+This is a small summary of the steps to be followed to complete the homework activities of the Computational Research Workflows course, which was taught at the University of Luxembourg on the 10<sup>th</sup> of November 2022.  
 **1. Create a Dockerfile.** In the terminal use `vim Dockerfile` command to create a file containing the lines provided in [the homework instructions](https://github.com/jhale/computational-workflows-homework). However, I had to modify the ubuntu version to a lower version (20.04) to avoid errors on the following lines. 
 ```
 FROM ubuntu:20.04
