@@ -1,6 +1,6 @@
 # Computational Research Workflows Homework
 
-**1. Create a Docker file.** In the terminal I used `vim Dockerfile` command to create a file containing the lines provided in [the instructions] (https://github.com/jhale/computational-workflows-homework)
+**1. Create a Docker file.** In the terminal I used `vim Dockerfile` command to create a file containing the lines provided in [the instructions](https://github.com/jhale/computational-workflows-homework)
 `FROM ubuntu:21.04
 
 RUN apt-get -y update && \
