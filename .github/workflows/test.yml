@@ -3,7 +3,7 @@ on: [push]
 jobs:
   tests:
     runs-on: ubuntu-20.04
-    container: mariamosgar/computational-workflows:latest
+    container: mariamosgar/homework:latest
 
     steps:
       - name: Checkout code
